@@ -1,3 +1,6 @@
 Line 1 by gitHub
-Line2 by gitHub
-line 3 by GitHub
+Line 2 by gitHub
+Line three by gitHub (adeted locally)
+Line 4 by gitHub
+Line 5 by gitHub
+Not from GitHub (From local)
