@@ -1,5 +1,5 @@
 Line 1 by gitHub
-Line 2  by gitHub
+Line 2 by gitHub
 Line three by gitHub (adeted locally)
 Line 4 by gitHub
-Line 5: by gitHub
+Line 5 by gitHub
